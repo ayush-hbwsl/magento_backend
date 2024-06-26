@@ -11,7 +11,9 @@
         </referenceBlock> -->
         <!-- <referenceBlock name="page.main.title" remove="true"></referenceBlock> -->
         <referenceContainer name="content">
-            <block name="layoutexample" class="Training\LayoutExample\Block\Layout\Index" template="Training_LayoutExample::content.phtml"/>
+            <block name="layoutexample" class="Training\LayoutExample\Block\Layout\Index" template="Training_LayoutExample::content.phtml">
+                <block name="layoutnote" class="Training\LayoutExample\Block\Layout\Note" template="Training_LayoutExample::note.phtml"/>
+                </block>
         </referenceContainer>
     </body>
 </page>
