@@ -64,7 +64,7 @@ return [
         'Magento_CmsUrlRewrite' => 1,
         'Magento_CmsUrlRewriteGraphQl' => 1,
         'Magento_CatalogGraphQl' => 1,
-        'Magento_TwoFactorAuth' => 0,
+        'Magento_AdminAdobeImsTwoFactorAuth' => 0,
         'Magento_Checkout' => 1,
         'Magento_UrlRewrite' => 1,
         'Magento_QuoteGraphQl' => 1,
@@ -351,7 +351,6 @@ return [
         'Magento_ThemeGraphQl' => 1,
         'Magento_CmsSampleData' => 1,
         'Magento_Translation' => 1,
-        'Magento_AdminAdobeImsTwoFactorAuth' => 0,
         'Magento_GoogleOptimizer' => 1,
         'Magento_Ups' => 1,
         'Magento_SalesSampleData' => 1,
@@ -377,6 +376,7 @@ return [
         'PayPal_BraintreeCustomerBalance' => 1,
         'PayPal_BraintreeGiftCardAccount' => 1,
         'PayPal_BraintreeGiftWrapping' => 1,
-        'PayPal_BraintreeGraphQl' => 1
+        'PayPal_BraintreeGraphQl' => 1,
+        'Training_Example' => 1
     ]
 ];
