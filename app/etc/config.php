@@ -377,6 +377,7 @@ return [
         'PayPal_BraintreeGiftCardAccount' => 1,
         'PayPal_BraintreeGiftWrapping' => 1,
         'PayPal_BraintreeGraphQl' => 1,
+        'Training_Contact' => 1,
         'Training_Example' => 1,
         'Training_HeadCssJs' => 1,
         'Training_HeaderFooterScripts' => 1,
