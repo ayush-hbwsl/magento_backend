@@ -379,6 +379,8 @@ return [
         'PayPal_BraintreeGraphQl' => 1,
         'Training_Example' => 1,
         'Training_LayoutExample' => 1,
+        'Training_LayoutMoveExample' => 1,
+        'Training_LayoutRemoveExample' => 1,
         'Training_WidgetExample' => 1
     ]
 ];
