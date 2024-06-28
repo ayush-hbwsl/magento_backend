@@ -384,6 +384,7 @@ return [
         'Training_LayoutExample' => 1,
         'Training_LayoutMoveExample' => 1,
         'Training_LayoutRemoveExample' => 1,
+        'Training_ViewModelExample' => 1,
         'Training_WidgetExample' => 1
     ]
 ];
