@@ -7,4 +7,5 @@ namespace Training\LoggerExample\Logger;
 
 class Logger extends \Monolog\Logger
 {
+    
 }
